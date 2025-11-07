@@ -1,0 +1,122 @@
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/IRanges/extdata/ce2chrM.fa.out
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/dm3_upstream2000.fa.gz
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/fastaEx.fa
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/Sc.fa
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/someORF.fa
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/someORF.fa.gz
+/home/nahia/snap/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/Sp.fa
+/home/nahia/z/alg/dataset1/files.fa.txt
+/home/nahia/z/alg/dataset1/nucleotides/fastq_riboseq_drosophila/ribo_embryo_rep1.10k.read2.fastq.gz
+/home/nahia/z/alg/dataset1/nucleotides/fastq_riboseq_drosophila/ribo_embryo_rep2.1k.read1.fastq.gz
+/home/nahia/z/alg/dataset1/nucleotides/fastq_riboseq_drosophila/ribo_embryo_rep1.10k.read1.fastq.gz
+/home/nahia/z/alg/dataset1/nucleotides/fastq_riboseq_drosophila/ribo_embryo_rep2.1k.read2.fastq.gz
+/home/nahia/z/alg/dataset1/nucleotides/chr19_human_region_nt.fa
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_6_12h_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.mal2_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.fem2_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.pupae_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.s2_wt_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_0_2h_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_12_24h_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.head_male_fly_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.fem2_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.mal1_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_6_12h_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.s2_wt_harr30.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.head_female_fly_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_2_6h_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.mal1_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_0_2h_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.pupae_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.s2_wt_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_12_24h_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.larvae_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.head_male_fly_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.fem1_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.larvae_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.mal2_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.head_female_fly_mrna.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.em_2_6h_mrna_new.fasta
+/home/nahia/z/alg/dataset1/nucleotides/sequenced2023/sample.fem1_ribo.fasta
+/home/nahia/z/alg/dataset1/nucleotides/drosophila.dm6.chr4.fa
+/home/nahia/z/alg/dataset1/nucleotides/chr6_human_region_nt.fa
+/home/nahia/z/alg/dataset1/nucleotides/sars-cov-2.fasta
+/home/nahia/z/alg/dataset1/proteins/scly_proteins.ncbi.fa
+/home/nahia/z/alg/dataset1/proteins/example.fa
+/home/nahia/z/alg/dataset1/proteins/unknown_mouse_protein.fasta
+/home/nahia/z/alg/dataset1/proteins/fesor.dbteu.aligned.fa
+/home/nahia/z/alg/dataset1/proteins/cysd_archaea.uniprot.fa
+/home/nahia/z/alg/dataset1/proteins/sequences.fasta
+/home/nahia/z/alg/dataset1/proteins/._sequences.fasta
+/home/nahia/z/alg/dataset1/proteins/._unknown_mouse_protein.fasta
+/home/nahia/z/alg/dataset1/proteins/SPS.fa
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.psq
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.pto
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.ptf
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.pin
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.pdb
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.phr
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.pjs
+/home/nahia/z/alg/dataset1/proteins/blastdb/selenodb.fasta.pot
+/home/nahia/z/alg/dataset1/proteins/._example.fa
+/home/nahia/z/alg/dataset1/proteins/selenodb.fasta
+/home/nahia/z/pgb/chip-seq/IP.fastq
+/home/nahia/z/pgb/chip-seq/MOCK.fastq
+/home/nahia/z/pgb/chip-seq/mm10.fa.sa
+/home/nahia/z/pgb/chip-seq/mm10.fa.pac
+/home/nahia/z/pgb/chip-seq/mm10.fa.bwt
+/home/nahia/z/pgb/chip-seq/mm10.fa.amb
+/home/nahia/z/pgb/chip-seq/mm10.fa.ann
+/home/nahia/z/pgb/chip-seq/mm10.fa
+/home/nahia/z/pgb/practs/13-10/subread-2.0.7-Linux-x86_64/test/chr901.fa
+/home/nahia/z/pgb/practs/13-10/subread-2.0.7-Linux-x86_64/test/subread-align/data/subfusion_test.fa
+/home/nahia/z/pgb/practs/13-10/subread-2.0.7-Linux-x86_64/test/subread-align/data/subfusion_test2.fa
+/home/nahia/z/pgb/practs/13-10/mm10/chrX.fa
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/A_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/E_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/C_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/F_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/D_06_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/F_06_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/A_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/C_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/E_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/D_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/B_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/Practical Session RNASeq-20251013/01_rawData/B_06_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/A_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/E_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/C_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/F_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/D_06_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/F_06_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/A_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/C_05_2.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/E_05_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/D_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/B_06_1.fastq.gz
+/home/nahia/z/pgb/practs/13-10/01_rawData/B_06_2.fastq.gz
+/home/nahia/z/pgb/project/myod1.fasta
+/home/nahia/z/pgb/project/Human_MYOD1_orthologues.fa
+/home/nahia/z/pgb/exs/ex4/BLAST/myseq.fa
+/home/nahia/z/pgb/exs/ex4/Saccharomyces_eubayanus_gca_001298625.SEUB3.0.dna.chromosome.1.fa.gz
+/home/nahia/z/pgb/exs/ex4/Saccharomyces_cerevisiae.R64-1-1.pep.all.fa
+/home/nahia/z/pgb/exs/ex4/myseq.fa
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/IRanges/extdata/ce2chrM.fa.out
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/shiny/www/shared/datepicker/js/locales/bootstrap-datepicker.fa.min.js
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/dm3_upstream2000.fa.gz
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/fastaEx.fa
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/Sc.fa
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/someORF.fa
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/someORF.fa.gz
+/home/nahia/R/x86_64-pc-linux-gnu-library/4.5/Biostrings/extdata/Sp.fa
+/home/nahia/miniconda3/pkgs/meme-5.5.2-py310pl5321h2bc4914_1/share/meme-5.5.2/doc/examples/sample_opal_scripts/crp0.fasta
+/home/nahia/miniconda3/pkgs/meme-5.5.2-py310pl5321h2bc4914_1/share/meme-5.5.2/doc/examples/example-datasets/At.faa
+/home/nahia/miniconda3/pkgs/meme-5.5.2-py310pl5321h2bc4914_1/share/meme-5.5.2/doc/examples/example-datasets/nrmix.nseqs.100.100bp.seed.1.fa
+/home/nahia/miniconda3/pkgs/meme-5.5.2-py310pl5321h2bc4914_1/share/meme-5.5.2/doc/examples/example-datasets/adh.faa
+/home/nahia/miniconda3/pkgs/meme-5.5.2-py310pl5321h2bc4914_1/share/meme-5.5.2/doc/examples/bed2fasta_example_output_files/Rxra.fa
+/home/nahia/miniconda3/envs/bioinfo/share/meme-5.5.2/doc/examples/sample_opal_scripts/crp0.fasta
+/home/nahia/miniconda3/envs/bioinfo/share/meme-5.5.2/doc/examples/example-datasets/At.faa
+/home/nahia/miniconda3/envs/bioinfo/share/meme-5.5.2/doc/examples/example-datasets/nrmix.nseqs.100.100bp.seed.1.fa
+/home/nahia/miniconda3/envs/bioinfo/share/meme-5.5.2/doc/examples/example-datasets/adh.faa
+/home/nahia/miniconda3/envs/bioinfo/share/meme-5.5.2/doc/examples/bed2fasta_example_output_files/Rxra.fa
