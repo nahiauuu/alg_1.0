@@ -25,9 +25,9 @@ elif [ "$total_lineas" -eq "$lineasx2"]; then   # si el archivo tiene exactamnet
         cat "$file"
 
 else  # cuando el file tiene menos del doble de lineas, para que se muestre todo el file también y yasta
-    cat "$archivo"
+    cat "$file"
 
     # PERO QUE SE MUESTRE LA ADVERTENCIA
     echo "..." >&2
-    echo "WARNING: File '$archivo' has only $total_lineas lines (requested $num_lineas lines from each end)" >&2
+    echo "WARNING: File '$file' has only $total_lineas lines (requested $num_lineas lines from each end)" >&2
 fi
