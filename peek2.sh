@@ -21,6 +21,13 @@ if [ "$total_lineas" -gt "$lineasx2" ]; then
 
     tail -n "$num_lineas" "$file" # mostrar las últimas n líneas
 
-else   # por si el archivo es más pequeño, para que se muestre entero y yasta
+elif [ "$total_lineas" -eq "$lineasx2"]; then   # si el archivo tiene exactamnete el doble de líneas, que se muestre entero
         cat "$file"
+
+else  # cuando el file tiene menos del doble de lineas, para que se muestre todo el file también y yasta
+    cat "$archivo"
+
+    # PERO QUE SE MUESTRE LA ADVERTENCIA
+    echo "..." >&2
+    echo "WARNING: File '$archivo' has only $total_lineas lines (requested $num_lineas lines from each end)" >&2
 fi
